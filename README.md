@@ -1,6 +1,6 @@
 # Muscle Up Gym Website
 
-Muscle Up Gym is a responsive and dynamic website for a fitness club called "Muscle Up Gym." This website provides information about the gym, its classes, blog, and contact details.
+Muscle Up Gym is a responsive website for a fitness club called "Muscle Up Gym." This website provides information about the gym, its classes, blog, and contact details.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ This website is designed to showcase the services and offerings of Muscle Up Gym
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/muscle-up-gym-website.git
+   git clone https://github.com/Surajkumar4-source/muscle-up-gym-website.git
 
   . Open the project in your preferred code editor.
 
